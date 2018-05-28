@@ -16,6 +16,7 @@ Instruction
 
 <strong>Step 1 : Right click on the <i>.htm</i> file and open it with a browser of your choice</strong>
 
+
 <strong>Step 2 : Set the startpage as the homepage </strong>
 
 <ol> 
